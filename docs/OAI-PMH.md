@@ -31,3 +31,7 @@ Tidligere var det et OAI-PMH endepunkt pÃ¥: https://www.nb.no/oai/. Det virker Ã
 
 ### ListRecords
 `verb=ListRecords` Henter ut metadata for datasett.
+
+### ListMetadataFormats
+
+`verb=ListMetadataFormats` Gir en liste over metadataformat som kan hentes ut.
