@@ -24,7 +24,10 @@ Tidligere var det et OAI-PMH endepunkt p√•: https://www.nb.no/oai/. Det virker √
 ## Nyttige OAI-PMH verb
 
 ### Identify
+`verb=Identify` Gir informasjon om endepunktet.
 
 ### ListSets
+`verb=ListSets` Gir en liste over datasett som kan hentes ut.
 
-### List
+### ListRecords
+`verb=ListRecords` Henter ut metadata for datasett.
